@@ -14,7 +14,7 @@ Our goal is to design a destination hub which will provide services such as fund
 In short, our project uses application of the Fast-Feedback cycle to meet the client's needs and build a promising resource hub
 # North Star Customers
 Saskatchewan charities and non-profit organisations focused on community impact, struggling to find the proper resources, opportunities, and partnerships to support themselves.
-- Non-profit organizations - https://ngobase.org/ci/CA.SK.RG/regina-ngos-charities
+- [Non-profit organizations and Charities across Saskatchewan](https://ngobase.org/ci/CA.SK.RG/regina-ngos-charities)
 # Carryover Customers 
 - Donors
 - Vital signs community
