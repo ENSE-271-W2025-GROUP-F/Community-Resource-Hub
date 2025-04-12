@@ -11,4 +11,4 @@ Present here were two reps from the SSCF.
 
 Next we emailed a back-up of our Wordpress site to our project sponsor. 
 
-So, located here is our updated Story Map, our presentation slides, and our final Project Report. 
+So, located here is our updated Story Map, our presentation slides, customer notes, and our final Project Report. 
